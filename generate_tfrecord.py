@@ -16,7 +16,7 @@ import os
 import io
 import pandas as pd
 import tensorflow as tf
-import tf.compat.v1.flags as flags
+import tensorflow.compat.v1.flags as flags
 import sys
 
 sys.path.append("../../models/research")
